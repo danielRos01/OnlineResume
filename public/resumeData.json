@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name":"Daniel S Socoza",
+    "occupation":"Currenly unemployed and Final year student",
+    "description":"Im a young passionate goal driven aspiring web-devekoper, system manager, possibly project manager, Im always interested in learning new technologies as the world is transforming and becoming more digital than ever.",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":" Im available on all most all social media, mainly Instagram, facebook and ocourse twitter.",
+    "email": "daniel.socoza079@gmail.com",
+    "phone": "(+27) 794-860-288",
+    "address":{
+      "street":"(Saturnus Street)",
+      "city":"(WestRand (Johanessburg))",
+      "state":"(Province: Gauteng )",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/siyabulela.socoza.1",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/@ssocoza",
+        "className":"fa fa-twitter"
+      },
+     
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/Daniel Siyabulela Socoza/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/@siya_daniel_ros",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/danielRos01",
+        "className":"fa fa-github"
+      }
+    
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Northwest University (NWU_PUK)",
+        "degree":"BSC Information Technology",
+        "graduated":"N/A",
+        "description":"Difficult experience learnig about the world of computers from skretch, however the leactures and thier learning system made it somewhat a good experience. Ive had the privlige of getting intoduced to several technologies epspecilly progrmming languages, my useful skills acquired i can say ; communication, team-work , project lesdership, problem solving using various resourses."
+      }
+   
+    ],
+    "work":[
+     
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"java",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"60%"
+      },
+      {
+        "name":"C++",
+        "level":"50%"
+      },
+      {
+        "name":"C#",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Auxigen",
+        "category":"Local South African Music website",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.auxigen.online"
+      }
+     
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
