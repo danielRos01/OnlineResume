@@ -187,7 +187,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: #2B2B2B url(../images/mount.jpg) no-repeat top center;;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -207,13 +207,13 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
-   border-radius: 100%;
+   width: 650px;
+   height: 250px;
+   border-radius: 0%;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
-   width: 58.33333%;
+   width: 50%;
    padding-top: 6px;
 }
 #about .main-col { padding-right: 5%; }
@@ -227,7 +227,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .download .button i {
    margin-right: 15px;
-   font-size: 20px;
+   font-size: 18px;
 }
 
 

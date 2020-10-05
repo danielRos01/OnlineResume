@@ -1,18 +1,18 @@
 {
   "main": {
     "name":"Daniel S Socoza",
-    "occupation":"Currenly unemployed and Final year student",
-    "description":"Im a young passionate goal driven aspiring web-devekoper, system manager, possibly project manager, Im always interested in learning new technologies as the world is transforming and becoming more digital than ever.",
+    "occupation":"Currenly unemployed and a Final year student at Northwest University",
+    "description":"I'm a young passionate goal driven aspiring web-devekoper, system manager, possibly project manager, Im always interested in learning new technologies as the world is transforming and becoming more digital than ever.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Shy with somewhat a bubbly personality, very active in sports activities, adventurous outgoing at times very outspoken, however very much respectful , what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":" Im available on all most all social media, mainly Instagram, facebook and ocourse twitter.",
     "email": "daniel.socoza079@gmail.com",
     "phone": "(+27) 794-860-288",
     "address":{
-      "street":"(Saturnus Street)",
+      "street":"Saturnus Street (Westonaria)",
       "city":"(WestRand (Johanessburg))",
-      "state":"(Province: Gauteng )",
-      "zip": "(Your Zip/Postal Code)"
+      "state":"Gauteng ",
+      "zip": "Postal Code(1779)"
     },
     "website": "",
     "resumedownload":"",
