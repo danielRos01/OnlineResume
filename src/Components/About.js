@@ -14,14 +14,20 @@ class About extends Component {
       var phone= this.props.data.phone;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
+      var networks= this.props.data.social.map(function(network){
+         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+       })
     }
 
     return (
       <section id="about">
       <div className="row">
          <div className="three columns">
+
+
             <img className="profile-pic"  src={profilepic} alt="Daniel Socoza Profile Pic" />
          </div>
+         
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
@@ -42,6 +48,10 @@ class About extends Component {
                   <p>
                      <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download My Resume</a>
                   </p>
+
+                  <ul className="social">
+                     {networks}
+                  </ul>
                </div>
             </div>
          </div>
