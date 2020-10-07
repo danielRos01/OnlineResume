@@ -30,12 +30,12 @@
      
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/Daniel Siyabulela Socoza/",
+        "url":"https://www.linkedin.com/in/daniel-siyabulela-socoza-1235851b4/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/@siya_daniel_ros",
+        "url":"http://instagram.com/siya_daniel_ros",
         "className":"fa fa-instagram"
       },
       {
@@ -65,20 +65,25 @@
    
     ],
     "work":[
-     
+      {
+        "company":"Auxigen Media",
+        "title":"Marketing Manager/ junior (front-end designer)",
+        "years":"Jan 2019- Present",
+        "description":"As Marketing manager im resposible for the digital advertising and marketing of the company/website, managing changes that may occure and implenting them on the digital side of marketting. There are no special projects yet either than hosing competions that can promote the website more, notable achievements are bieng able to engage with people on social media to generate traffic on or website. I have grown our facebook page ; Auxigen Media and our instagram page @auxigen_media, and im curretly on working progress with courses on Udemy to learn new technologies and skils espeically on the front-end development as well as the business side of technology."
+      }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"50%"
+        "level":"45%"
       },
       {
         "name":"java",
-        "level":"55%"
+        "level":"50%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"40%"
       },
       {
         "name":"CSS",
@@ -119,7 +124,7 @@
         "title":"Auxigen",
         "category":"Local South African Music website",
         "image":"auxi.jpg",
-        "url":"https://www.auxigen.online"
+        "url":"https://www.auxigen.online/about"
       }
      
     ]
