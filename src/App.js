@@ -7,7 +7,7 @@ import Footer from './Components/Footer';
 import About from './Components/About';
 import Resume from './Components/Resume';
 import Portfolio from './Components/Portfolio';
-
+import { PushSpinner } from "react-spinners-kit";
 
 
 class App extends Component {
@@ -16,7 +16,8 @@ class App extends Component {
     super(props);
     this.state = {
       foo: 'bar',
-      resumeData: {}
+      resumeData: {},
+      loading: true
     };
 
     ReactGA.initialize('UA-110570651-1');
@@ -44,13 +45,21 @@ class App extends Component {
   }
 
   render() {
+    const { loading } = this.state;
     return (
       <div className="App">
+           <PushSpinner
+                size={30}
+                color="#686769"
+                loading={loading}
+            />
         <Header data={this.state.resumeData.main}/>
+
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
         <Portfolio data={this.state.resumeData.portfolio}/>
         <Footer data={this.state.resumeData.main}/>
+     
       </div>
     );
   }

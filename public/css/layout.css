@@ -308,7 +308,7 @@ ul#nav li.current a { color: #F06000; }
   	margin-bottom: 60px;
   	background: #ccc;
   	height: 30px;
-  	border-radius: 3px;
+  	border-radius: 30px;
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
@@ -330,7 +330,7 @@ ul#nav li.current a { color: #F06000; }
    display: inline-block;
   	height: 30px;
    line-height: 42px;
-   border-radius: 15px 0 0 px;
+   border-radius: 35px 0 0 px;
 }
 
 
